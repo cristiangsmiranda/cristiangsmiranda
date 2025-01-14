@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Cristian Miranda, but you can just call me Cristian<br>👀 I'm currently interested in programming and web design<br>🌱 I'm currently learning Software Development from BYU-IDAHO<br>⚡ Fun fact: I'm extremely creative and love writing books and screenplays. My personal and future goal is to develop stories that are good enough to be plots for movies, series or games that I plan to program in the future.
+👋 Hi, I'm Cristian Miranda, but you can just call me Cristian<br>👀 I'm very interested in developing my Javascript skills.<br>🌱 I'm currently learning Software Development from BYU-IDAHO<br>⚡ Fun fact: I'm extremely creative and love writing books and screenplays. My personal and future goal is to develop stories that are good enough to be plots for movies, series or games that I plan to program in the future.
 
 
 ## 🌐 Socials:
